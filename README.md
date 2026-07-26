@@ -9,7 +9,6 @@ I enjoy building complete products—from polished React interfaces to scalable 
 
 ### 🚀 What I'm doing
 
-- 🔭 Building production-ready full-stack applications with **React**, **NestJS**, and **PostgreSQL**.
 - 🔭 Building scalable full-stack applications with **React**,  **Node.js**, **NestJS**, and **PostgreSQL**.
 - 🌱 Comfortable across the whole stack — REST API design, database modeling, and deploying it all with **Docker** + **GitHub Actions**.
 - 🛠️ Passionate about clean architecture, maintainable code, and continuous learning.
