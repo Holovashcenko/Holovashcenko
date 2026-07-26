@@ -1,20 +1,21 @@
 <h1 align="center">Hey, I'm Vladyslav 👋</h1>
-<h3 align="center">Full-Stack JavaScript Developer — React · React Native · Node.js</h3>
+<h3 align="center">Full-Stack JavaScript Developer | React • React Native • Node.js</h3>
 
 <p align="center">
-I build things end to end: pixel-pushing on the frontend in the morning, 
-untangling a gnarly API bug by the afternoon. Based in Ukraine, working remote.
+I enjoy building complete products—from polished React interfaces to scalable Node.js APIs with a focus on clean architecture and great user experience.
 </p>
 
 ---
 
 ### 🚀 What I'm doing
 
-- 🔭 Currently shipping production features with **React**, **NestJS**, and **PostgreSQL** at **SMISS**
-- 🌱 Comfortable across the whole stack — REST API design, database modeling, and deploying it all with **Docker** + **GitHub Actions**
-- 🛠️ Somewhere between "move fast" and "actually test it first" — still figuring out the right balance, like everyone else
-- 💬 Ask me about React performance, NestJS architecture, or why your bundle size is bigger than it should be
-- 📫 Reach me at **holovashchenko@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/vladyslav-holovashchenko/)**
+- 🔭 Building production-ready full-stack applications with **React**, **NestJS**, and **PostgreSQL**.
+- 🔭 Building scalable full-stack applications with **React**,  **Node.js**, **NestJS**, and **PostgreSQL**.
+- 🌱 Comfortable across the whole stack — REST API design, database modeling, and deploying it all with **Docker** + **GitHub Actions**.
+- 🛠️ Passionate about clean architecture, maintainable code, and continuous learning.
+- 💬 Ask me about React, Node.js, NestJS, performance optimization, or modern JavaScript development.
+- 🤖 Leveraging AI tools like Claude Code, Gemini, Cursor, and GitHub Copilot to improve development speed and code quality.
+- 📫 Reach me at **holovashcenko@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/vladyslav-holovashchenko/)**.
 
 ---
 
@@ -45,4 +46,4 @@ untangling a gnarly API bug by the afternoon. Based in Ukraine, working remote.
 
 ---
 
-<p align="center"><i>Open to full-stack roles — always happy to talk shop about React, Node, or the Elden Ring DLC.</i></p>
+<p align="center"><i>Open to full-stack opportunities — let's talk React, Node.js, AI tools, or anything JavaScript.</i></p>
