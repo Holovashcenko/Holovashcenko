@@ -38,9 +38,10 @@ untangling a gnarly API bug by the afternoon. Based in Ukraine, working remote.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Holovashcenko&show_icons=true&theme=default&hide_border=true" alt="Vladyslav's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holovashcenko&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Holovashcenko&show_icons=true&theme=default&hide_border=true" alt="Vladyslav's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Holovashcenko&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
+
 
 ---
 
